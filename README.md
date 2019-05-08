@@ -19,6 +19,6 @@ Forthcoming Languages:
 #### Volunteer to write a language implementation!
 
 The only requirement for a language is that it effectively leverages the `ZeroMQ` protocol,
-and next the `RINA` Recursive InterNetworking Architecture.
+and next the enhaced version of this will be for it exist within the `RINA` Recursive InterNetworking Architecture.
 
 Contact [@digitalextremist](https://github.com/digitalextremist) //
