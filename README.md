@@ -7,13 +7,14 @@ Language Implementations:
 - [ ] [`Crystal`](https://github.com/abstractive/artillery.cr)
 
 Forthcoming Languages:
-- [ ] Ruby
-- [ ] JavaScript
-- [ ] Python
-- [ ] Elixir
-- [ ] Rust
-- [ ] Go
-- [ ] PHP?
+- [ ] `Ruby`
+- [ ] `JavaScript`
+- [ ] `Python`
+- [ ] `Elixir`
+- [ ] `Rust`
+- [ ] `Go`
+- [ ] `PHP`?
+- [ ] Others: Up to you.
 
 #### Volunteer to write a language implementation!
 
